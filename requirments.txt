@@ -1,5 +1,4 @@
-numpy<2.0
-opencv-python-headless
-torch
 ultralytics
 flask
+opencv-python-headless
+ncnn
