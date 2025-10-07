@@ -1,4 +1,3 @@
-ultralytics
 flask
 opencv-python-headless
-ncnn
+ultralytics
