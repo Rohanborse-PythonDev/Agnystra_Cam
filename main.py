@@ -8,7 +8,7 @@ import cv2
 import numpy as np
 
 # ========== Config ==========
-VIDEO_SOURCE = "rtsp://admin:admin@192.168.1.106:8554/live"  # Use webcam or replace with RTSP
+VIDEO_SOURCE = "rtsp://admin:admin@192.168.1.4:8554/live"  # Use webcam or replace with RTSP
 FRAME_WIDTH = 320
 FRAME_SKIP = 2
 CONF_THR = 0.4
@@ -173,3 +173,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
